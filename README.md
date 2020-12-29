@@ -1,5 +1,4 @@
-# timing_sync
-Timing offset estimation for OFDM systems using a matched filter
+# Timing offset estimation for OFDM systems using a matched filter
 
 References:
 
